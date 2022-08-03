@@ -1,0 +1,15 @@
+.tableCls{
+    width:100%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1%;
+}
+.setWidth{
+    width: 3rem;
+    height: fit-content;
+    margin: auto;
+}
+.setWidthDiv{
+     width: auto;
+     height: fit-content;
+}

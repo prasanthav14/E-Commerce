@@ -1,0 +1,14 @@
+.bookingNavCls{
+    display: inline-flex;
+    width: 100%;
+}
+.goBackCls{
+    width: max-content;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.bookingTextCls{
+    margin: auto;
+    position: relative;
+    text-align: center;
+}

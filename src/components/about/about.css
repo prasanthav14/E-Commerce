@@ -1,0 +1,47 @@
+.abtImg {
+    height: 15rem;
+    margin: auto;
+    /* margin-top: 2rem; */
+}
+
+.visionDiv {
+    background-color: rgba(253, 89, 1, 1);
+    margin: auto;
+    height: 27rem;
+    width: 19rem;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 2%;
+}
+
+.missionDiv {
+    background-color: rgba(247, 129, 4, 1);
+    margin: auto;
+    height: 27rem;
+    width: 19rem;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 2%;
+}
+
+.valueDiv {
+    background-color: rgba(250, 171, 54, 1);
+    margin: auto;
+    height: 27rem;
+    width: 19rem;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 2%;
+}
+.valueCardCls{
+    width: 18rem;
+    height: 25rem;
+    margin:auto;
+}
+.aboutFilterBtnCls {
+    border-radius: 0;
+    padding: .3rem;
+    margin: auto;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}

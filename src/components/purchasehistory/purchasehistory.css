@@ -1,0 +1,56 @@
+/* ---------------------purchase */
+
+.historyContainerDiv {
+    background-color: white ;
+    padding: 0;
+    margin: 0;
+    margin-top: 5px; 
+    height: 100%
+}
+
+.historyInnerContainer {
+    margin: 0;
+    padding: 0; 
+    width: 100% ;
+}
+.bookingHistoryPriceTag {
+    background-color: gold;
+    width: max-content;
+    padding: 2px;
+}
+
+
+
+/* ---------------------purchase */
+
+.containerDiv{
+    background-color: silver ;
+    padding: .25rem;
+    padding-top: 0;
+    margin: auto;
+    margin-top: 5px;
+}
+.innerContainerDiv1 {
+    margin: auto;
+    padding: 0;
+}
+
+.innerContainerDiv2 {
+    margin: 0%;
+}
+
+.historyImgDiv {
+    height: 8.5rem;
+    text-align: center;
+    background-color: whitesmoke;
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+
+.historyPriceTag {
+    background-color: gold;
+    width: max-content;
+    padding: 2px;
+    margin-left: .8rem;
+    margin-bottom: 5px;
+}
