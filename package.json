@@ -1,0 +1,41 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "E-commerce app backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthav14/E-Commerce.git"
+  },
+  "keywords": [
+    "AV",
+    "e-commerce",
+    "event-solutions"
+  ],
+  "author": "prasanthav14",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanthav14/E-Commerce/issues"
+  },
+  "homepage": "https://github.com/prasanthav14/E-Commerce#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongodb": "4.5",
+    "mongoose": "^6.3.6",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.18",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "razorpay": "^2.8.2",
+    "uuid": "^8.3.2"
+  },
+  "type": "module"
+}
