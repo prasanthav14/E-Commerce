@@ -1,0 +1,33 @@
+.paDiv {
+    background-color: rgba(217, 20, 56, 1);
+    height: max-content;
+    padding: 2rem 2rem;
+    margin: auto;
+    margin-top: 5px;
+    width: 19rem;
+}
+
+.illuDiv {
+    background-color: rgba(166, 38, 72, 1);
+    height: max-content;
+    padding: 2rem 2rem;
+    margin: auto;
+    margin-top: 5px;
+    width: 19rem;
+}
+
+.powerDiv {
+    background-color: rgba(24, 37, 64, 1);
+    height: max-content;
+    padding: 2rem 2rem;
+    margin: auto;
+    margin-top: 5px;
+    width: 19rem;
+}
+
+.availabilityLogo {
+    width: 10rem;
+    margin: auto;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}

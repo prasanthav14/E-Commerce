@@ -1,0 +1,38 @@
+.filterBtnCls {
+    border-radius: 0%;
+    padding: 0%;
+    margin: auto;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.priceTag {
+    background-color: gold;
+    width: fit-content;
+    padding: 2px;
+    margin-top: .5rem;
+}
+
+.singleCardDivCls{
+    /* height: fit-content; */
+    /* background-color: cadetblue; */
+    /* display: inline-flex; */
+    /* margin-right: auto; */
+    margin-top: 5px;
+}
+.singleCardCls {
+    /* width: fit-content; */
+    height: 100%;
+    /* background-color: aquamarine; */
+    display: inline-flex;
+}
+
+.singleImgCls {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    /* height: 100%;  */
+}

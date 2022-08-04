@@ -1,0 +1,33 @@
+.allUsersTableCls {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1%;
+    width:100%;
+    margin-bottom: 10px;
+}
+
+.allUsersRowCenter {
+    text-align: center;
+    border: 1px;
+    border-style: solid;
+    width:fit-content;
+    margin: auto;
+}
+.adminInnerContainer1 {
+    padding-left: 1rem;
+}
+.adminInnerContainer2 {
+    padding: 0;
+}
+.userHistoryEmptyCart{
+    text-align: center;
+    padding-top:2rem;
+    padding-bottom:2rem;
+    margin: 1rem;
+    background: rgba(255, 255, 255, 0.664);
+    height: fit-content;
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(228, 50, 50, 0.514);
+}
+

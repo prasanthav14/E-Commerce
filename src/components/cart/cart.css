@@ -1,0 +1,47 @@
+.cartBgCls {
+    background-color: silver;
+    padding: 0;
+    padding-bottom: .5rem;
+
+}
+.containerDiv{
+    width: 100%; 
+    display: inline-flex;
+    padding: 0;
+    background-color: white;
+}
+.cartImgDiv {
+    height: auto;
+    /* background-color: aquamarine; */
+}
+.cartImgCls{
+    width:100%;
+    height: 100%;
+    margin: auto;
+    max-height: 10rem;
+    max-width: 10rem;
+}
+
+.cartCardDiv {
+    margin: auto;
+    padding-left: .5rem;
+}
+
+.checkoutCls {
+    margin: 0;
+    height: fit-content;
+}
+.cartPriceTag {
+    background-color: gold;
+    width: fit-content;
+    padding: 2px;
+    margin-left: 1rem;
+}
+.emptyCart {
+    text-align: center;
+    padding-top:10rem;
+    padding-bottom:10rem;
+    margin: 1rem;
+    background: rgba(255, 255, 255, 0.664);
+    height: 25rem
+}
